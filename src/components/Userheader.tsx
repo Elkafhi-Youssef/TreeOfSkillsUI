@@ -3,9 +3,9 @@ import React from "react";
 function Userheader() {
   return (
     <>
-      <div className=" border-2 border-pri w-screen bg-pri ">
+      <div className=" border-2 border-dr w-screen bg-dr ">
         <div className=" px-72">
-          <div className=" border-2 border-pri flex my-12 items-center justify-between text-primary-content">
+          <div className=" border-2 border-dr flex my-12 items-center justify-between text-primary-content">
             <div className=" flex flex-row items-center">
               <div className="avatar">
                 <div className=" w-32 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">

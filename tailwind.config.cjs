@@ -7,9 +7,11 @@ module.exports = {
   theme: {
     extend: {},
     colors: {
-      'pri': '#0D1117',
+      'pri': '#242933',
       'sec': '#1B78DE',
       'pink': '#ff49db',
+      'dr': '#2A303C',
+      'green': '#4DBA87',
     },
   },
   plugins: [require("daisyui")],

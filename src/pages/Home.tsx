@@ -1,8 +1,10 @@
-
+import Header from '../components/Header';
+import Userheader  from '../components/Userheader';
 function home(){
     return(
         <>
-        <h1>home page </h1>
+        <Header/>
+        <Userheader/>
         </>
     )
 }
